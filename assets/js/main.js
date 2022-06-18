@@ -22,7 +22,7 @@ function linkAction(){
 }
 navLink.forEach(n => n.addEventListener('click', linkAction));
 
-$(function(){
+/*$(function(){
   $("#header").load("header.html"); 
   $("#footer").load("footer.html"); 
-});
+});*/
